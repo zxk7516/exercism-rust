@@ -1,0 +1,9 @@
+[package]
+name = "gigasecond"
+version = "0.0.0"
+
+[dependencies]
+chrono = "0.2"
+time = "0.1"
+num = { version = "0.1", default-features = false }
+
